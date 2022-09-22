@@ -5,7 +5,7 @@ import styles from "../styles/Home.module.css";
 export default function Home() {
   return (
     <div>
-      <h1>Hi</h1>
+      <h1>Test Vercel</h1>
     </div>
   );
 }
